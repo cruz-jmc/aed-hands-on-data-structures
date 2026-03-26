@@ -365,34 +365,6 @@ n1.value # 1
 n1.next.value # 2
 ```
 
-#### 15 - Soma de números
-
-> Retorne a soma dos números de 1 até n.
-
-**Exemplo:**
-
-> Para a entrada: 5
-
-**Saída esperada:**
-
-```bash
-15
-```
-
-#### 16 - Números ímpares
-
-> Retorne uma lista com os números ímpares até n.
-
-**Exemplo:**
-
-> Para a entrada: 7
-
-**Saída esperada:**
-
-```bash
-[1, 3, 5, 7]
-```
-
 ### 🧠 Observações finais
 
 - Leia os testes com atenção — eles definem o comportamento esperado
@@ -403,5 +375,5 @@ n1.next.value # 2
 
 📚 Referência
 
-- [Python Crash Course — Eric Matthes](https://www.amazon.com.br/Python-Crash-Course-Eric-Matthes/dp/1718502702/)
+- [Entendendo Algoritmos — Aditya Bhargava](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634/)
 - [Material da disciplina](https://github.com/casm3/algoritmos-e-estruturas-de-dados)
